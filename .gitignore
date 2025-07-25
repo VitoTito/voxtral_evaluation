@@ -1,0 +1,7 @@
+model/*
+voxtral_env/
+output/*
+
+!model/**/.gitkeep
+!voxtral_env/**/.gitkeep
+!output/**/.gitkeep
