@@ -5,10 +5,6 @@
 
 A reproducible evaluation pipeline for the **Voxtral Mini 1.0 (3B)** ASR model, enabling inference and benchmarking with key metrics (Word Error Rate and Character Error Rate).
 
-<p align="center">
-  <img src="data/voxtral.png" width="600" alt="Voxtral (Mistral AI)">
-</p>
-
 
 ## Objective
 
